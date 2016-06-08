@@ -12,10 +12,12 @@ It is a [known issue](https://github.com/facebook/react/issues/554) the onChange
 # Usage  
 
 ```javascript
-import Range from 'react-range-input';
+import Range from 'range-input-react';
+// Optional css for the material style
+import 'range-input-react/style.css';
 
 <Range
-  className='material'
+  className='material' // Optional style
   onChange={this.handleOnChange}
   onClick={this.handleOnClick}
   onKeyDown={this.handleKeyDown}
