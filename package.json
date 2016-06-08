@@ -1,10 +1,10 @@
 {
-  "name": "range-input",
-  "version": "0.0.0",
+  "name": "react-range-input",
+  "version": "0.0.1",
   "description": "Range Input Component",
   "repository": {
     "type": "git",
-    "url": "https://github.com/you/repo.git"
+    "url": "https://github.com/Mapker/react-range-input"
   },
   "license": "MIT",
   "scripts": {
